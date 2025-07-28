@@ -39,11 +39,17 @@
 
 ## 📊 GitHub Stats
 
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TawseefRafi&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TawseefRafi&show_icons=true&theme=radical" alt="Rafi's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TawseefRafi&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawseefRafi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/TawseefRafi/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/TawseefRafi/count.svg" alt="Visitor Count" />
+</p>
 
 
 
