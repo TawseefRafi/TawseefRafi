@@ -37,3 +37,13 @@
 </div>
 
 
+## 📊 GitHub Stats
+
+![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TawseefRafi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TawseefRafi&layout=compact&theme=radical)
+
+![Visitor Count](https://profile-counter.glitch.me/TawseefRafi/count.svg)
+
+
+
