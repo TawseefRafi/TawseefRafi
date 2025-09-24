@@ -3,7 +3,7 @@
 - 🧑‍🎓 I'm an **Electrical & Electronic Engineering undergrad** currently at **Khulna University of Engineering & Technology (KUET)**.
 - 👨‍💻 I'm looking to collaborate on projects involving **Arduino**, **Machine Learning**, and **Power Electronics**.
 - 💡 I'm currently learning **Embedded AI**, **Signal Processing**, and **Scientific Research & Publication**.
-- 💬 Ask me about **hardware-based projects**, **transformer design**, or **OpenCV & ML integrations**.
+- 💬 Ask me about **hardware-based projects**, or **OpenCV & ML integrations**.
 - 📫 How to reach me: **tawseefrafi@gmail.com**
 
 ---
